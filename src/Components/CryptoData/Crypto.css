@@ -1,0 +1,54 @@
+.cryptodata {
+  display: flex;
+  height: 100px !important;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.namesContainer {
+  align-items: center;
+  padding-top: 15px;
+  text-align: center;
+}
+
+.coinName {
+  font-size: 20px;
+}
+
+.coinSubName {
+  color: #808080;
+}
+
+.colorRedPercent {
+  color: red;
+}
+
+.colorGreenPercent {
+  color: green;
+}
+
+.pricesContainer {
+  align-items: center;
+  padding-top: 7px;
+  text-align: center;
+}
+
+.searchbar {
+  margin-bottom: auto;
+  margin-top: auto;
+  height: 60px;
+  width: 300px;
+  background-color: rgb(201, 216, 230);
+  border-radius: 30px;
+  padding: 10px;
+}
+
+.search_input {
+  color: rgb(3, 3, 3);
+  border: 0;
+  outline: 0;
+  background: none;
+  line-height: 40px;
+  width: 450px;
+  caret-color: rgb(230, 185, 185);
+}
